@@ -1,0 +1,10 @@
+# Dataset
+/tiny-imagenet-200
+/data
+
+# Environment
+/venv
+
+# Temp files
+.DS_Store
+__pycache__/
